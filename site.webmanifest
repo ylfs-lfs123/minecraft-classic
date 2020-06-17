@@ -50,7 +50,7 @@
     ],
     "theme_color": "#111111",
     "background_color": "#111111",
-    "start_url": "https://thealiendrew.github.io/classic-minecraft/",
+    "start_url": "https://thealiendrew.github.io/minecraft-classic/",
     "display": "standalone",
     "orientation": "landscape"
 }
