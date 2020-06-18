@@ -83,4 +83,5 @@
 
 
 ## Note about the block/fluid animations:
-    I'm not sure what the best way is for editing/creating the fluid animations, but I know that it would definitely need to be re-coded to actually use a file that has pregenerated frames for animation.
+
+  I'm not sure what the best way is for editing/creating the fluid animations, but I know that it would definitely need to be re-coded to actually use a file that has pregenerated frames for animation.
