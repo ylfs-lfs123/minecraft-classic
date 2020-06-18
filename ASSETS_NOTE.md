@@ -11,9 +11,9 @@
     
    You'll find that it uses a means of locating pixels in the image and changes each one, where in water's case it's with pixel transparencies.
 3. Changing the texture file alone won't work because you'll also need to change the colors in the dynamic texture animation in RGB (using normal RGB integers from 0 to 255):
-    * p = red
-    * m = green
-    * g = blue
+    * `p` = red
+    * `m` = green
+    * `g` = blue
 4. The fluid colors when submerged are not so easily made clear, but goes as follows:
     * Lava: search for `e.fogLava` in app.js
     * Water: search for `e.fogWater` in app.js
