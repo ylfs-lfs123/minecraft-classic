@@ -55,11 +55,11 @@
 
 ## For sounds...
 
-* Not you need 2 files to be most compitble with computers on the web:
+* Not you need 2 files to be most compatible with computers on the web:
    * MP3
    * OGG
    
-  It's best to start with an MP3, and convert to OGG, as you'll know the MP3 will most times be higher quality, but you could still start with an OGG file and convert it to MP3 too.
+  Normally, an OGG file will be better quality than an MP3, but in any case, use the file that has the higher bitrate to convert to the other format, if you don't already have both sound file versions.
 
 
 
