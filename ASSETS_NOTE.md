@@ -82,7 +82,5 @@
 
 
 
---
-
-Design Thoughts:
-    Now that all that is out of the way. I'm not sure what the best way is for editing the fluid animation, but I know that it would definitely need to be remade to accept textures that contain more than one base color (like how water is primarily blue and lava is primarily red/yellow mixed color).
+## Note about the block/fluid animations:
+    I'm not sure what the best way is for editing/creating the fluid animations, but I know that it would definitely need to be re-coded to actually use a file that has pregenerated frames for animation.
